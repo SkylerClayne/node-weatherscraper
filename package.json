@@ -1,0 +1,12 @@
+{
+  "name"         : "weatherscraper",
+  "version"      : "0.0.1",
+  "description"  : "Scrape le weather.",
+  "main"         : "server.js",
+  "author"       : "Skyler",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
