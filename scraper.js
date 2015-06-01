@@ -8,7 +8,7 @@ module.exports = function scrap(location){
                 var $ = cheerio.load(body),
                         temperature = $(".metar-table .temp").html();
                         
-                console.log("It’s " + temperature + " degrees Fahrenheit.");
+                console.log("It’s " + temperature + " degrees Celsius.");
         } else {
                 console.log("We’ve encountered an error: " + error);
         }
