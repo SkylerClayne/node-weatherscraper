@@ -5,7 +5,7 @@ Weather Scraper
 
 ## Description
 
-Developed for some experience with node, 
+Developed for some experience with node.
 
 ## Use
 
