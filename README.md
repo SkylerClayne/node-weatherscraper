@@ -27,7 +27,7 @@ It’s 17 degrees Celsius.
 
 Weather for London
 ```
-node server.js London
+node-weatherscraper $ node server.js London
 It’s 22 degrees Celsius.
 ```
 
